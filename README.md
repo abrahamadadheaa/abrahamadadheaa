@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @74756021
+- 👋 Hi, I’m @abrahamadadheaa 
 - 👀 I’m interested in Data 
-- 🌱 I’m currently learning Google Data Analytics Course on Coursera 
-- 💞️ I’m looking to collaborate on Data Analytics 
+- 🌱 I’m currently learning Google Cybersecurity Course on Coursera 
+- 💞️ I’m looking to collaborate on Cybersecurity Analysts
 - 📫 you can reach me on Twitter @abrahamadadheaa 
 
 <!---
